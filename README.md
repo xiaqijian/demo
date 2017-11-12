@@ -1,3 +1,3 @@
 ## shop-vue
 
-！[img](./images/shop-vue.gif)
+![img](./images/shop-vue.gif)
